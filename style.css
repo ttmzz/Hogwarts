@@ -21,8 +21,8 @@ body {
     opacity: 0.9;
     top: -30;
     left: -30;
-    width: calc(100vw + 60px);
-    height: calc(100vh + 60px);
+    width: 200vh;
+    height: 100%;
     z-index: -1;
   }
 
